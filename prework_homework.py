@@ -8,5 +8,5 @@ user_name = ['username']
 hello_name(user_name)
 
 #Question 2: prints odd numbers from 1-100, returning nothing
-def first_odds():
+def first_odds(): 
     
